@@ -113,12 +113,7 @@ CLOUDINARY_URL=cloudinary://api_key:api_secret@cloud_name
 - Implement real-time notifications for application updates.
 - Introduce multi-language support.
 
----
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ## Contact
 For any queries or contributions, contact:
